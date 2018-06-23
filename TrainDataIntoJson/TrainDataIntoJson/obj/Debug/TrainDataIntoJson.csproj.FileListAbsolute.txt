@@ -1,0 +1,10 @@
+C:\Users\T-GABOLL\source\repos\TrainDataIntoJson\TrainDataIntoJson\obj\Debug\TrainDataIntoJson.csprojAssemblyReference.cache
+C:\Users\T-GABOLL\source\repos\TrainDataIntoJson\TrainDataIntoJson\obj\Debug\TrainDataIntoJson.csproj.CoreCompileInputs.cache
+C:\Users\T-GABOLL\source\repos\TrainDataIntoJson\TrainDataIntoJson\bin\Debug\TrainDataIntoJson.exe.config
+C:\Users\T-GABOLL\source\repos\TrainDataIntoJson\TrainDataIntoJson\bin\Debug\TrainDataIntoJson.exe
+C:\Users\T-GABOLL\source\repos\TrainDataIntoJson\TrainDataIntoJson\bin\Debug\TrainDataIntoJson.pdb
+C:\Users\T-GABOLL\source\repos\TrainDataIntoJson\TrainDataIntoJson\obj\Debug\TrainDataIntoJson.exe
+C:\Users\T-GABOLL\source\repos\TrainDataIntoJson\TrainDataIntoJson\obj\Debug\TrainDataIntoJson.pdb
+C:\Users\T-GABOLL\source\repos\TrainDataIntoJson\TrainDataIntoJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\T-GABOLL\source\repos\TrainDataIntoJson\TrainDataIntoJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\T-GABOLL\source\repos\TrainDataIntoJson\TrainDataIntoJson\obj\Debug\TrainDataIntoJson.csproj.CopyComplete
